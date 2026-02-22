@@ -12,14 +12,13 @@
 [![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com)
 
 Thirty years of production operations across banking, payment processing, and healthcare.
-Founder of **[Limilo Ltd](https://limilo.com)**. Currently senior platform engineer on
-large-scale critical national infrastructure — the kind that cannot go down.
+Founder of **[Limilo Ltd](https://limilo.com)**. Lots of senior platform engineer on large scale systems.
 
 Moving into ML infrastructure. The hard operational problems are familiar territory.
 
 ---
 
-## Current Projects
+## Selection of Current Projects
 
 * 📋 **[CCchangelog](https://github.com/jolyonbrown/CCchangelog)** - Claude Code changelog tracker, posting updates to Bluesky
 * 🤖 **[ron_clanker](https://github.com/jolyonbrown/ron_clanker)** - AI-powered Fantasy Premier League manager. Sunbed not included.
