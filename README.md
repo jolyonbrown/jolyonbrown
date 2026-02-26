@@ -20,6 +20,7 @@ Moving into ML infrastructure. The hard operational problems are familiar territ
 
 ## Selection of Current Projects
 
+* 🗒️ **[clorg-mode](https://github.com/jolyonbrown/clorg-mode)** - Org-mode, but you talk to it
 * 📋 **[CCchangelog](https://github.com/jolyonbrown/CCchangelog)** - Claude Code changelog tracker, posting updates to Bluesky
 * 🤖 **[ron_clanker](https://github.com/jolyonbrown/ron_clanker)** - AI-powered Fantasy Premier League manager. Sunbed not included.
 * 📊 **[progress_bot](https://github.com/jolyonbrown/progress_bot)** - Bluesky bot tracking the US presidential term
