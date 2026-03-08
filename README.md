@@ -20,6 +20,7 @@ Moving into ML infrastructure. The hard operational problems are familiar territ
 
 ## Selection of Current Projects
 
+* ☁️ **[inference-platform](https://github.com/jolyonbrown/inference-platform)** -Cache-aware LLM inference platform POC focused on reliability, observability, and failure recovery under real serving conditions.
 * 🗒️ **[clorg-mode](https://github.com/jolyonbrown/clorg-mode)** - Org-mode, but you talk to it
 * 📋 **[CCchangelog](https://github.com/jolyonbrown/CCchangelog)** - Claude Code changelog tracker, posting updates to Bluesky
 * 🤖 **[ron_clanker](https://github.com/jolyonbrown/ron_clanker)** - AI-powered Fantasy Premier League manager. Sunbed not included.
