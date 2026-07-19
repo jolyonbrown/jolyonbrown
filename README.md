@@ -20,6 +20,7 @@ Moving into ML infrastructure. The hard operational problems are familiar territ
 
 ## Selection of Current Projects
 
+* ☁️ **[stewards_enquiry](https://github.com/jolyonbrown/stewards_enquiry)** - POC Security-alert triage agent on Amazon Bedrock AgentCore
 * ☁️ **[point.vote](https://github.com/jolyonbrown/point.vote)** - Planning poker for humans and agents
 * ☁️ **[inference-platform](https://github.com/jolyonbrown/inference-platform)** -Cache-aware LLM inference platform POC focused on reliability, observability, and failure recovery under real serving conditions.
 * 🗒️ **[clorg-mode](https://github.com/jolyonbrown/clorg-mode)** - Org-mode, but you talk to it
