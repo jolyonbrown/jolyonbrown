@@ -30,6 +30,7 @@ Moving into ML infrastructure. The hard operational problems are familiar territ
 * 🦀 **[omega_rust](https://github.com/jolyonbrown/omega_rust)** - Learning Rust by building a game
 * 🌐 **[jolyonbrown.github.io](https://github.com/jolyonbrown/jolyonbrown.github.io)** - My blog, CV etc
 * 🎮 **[blast-a-pic](https://github.com/jolyonbrown/blast-a-pic)** - A fun casual colour match game I made for my wife
+* 🎮 **[paint-by-numbers](https://github.com/jolyonbrown/paint-by-numbers)** - A paint by numbers casual game
 
 ---
 
