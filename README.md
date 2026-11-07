@@ -29,6 +29,7 @@ Moving into ML infrastructure. The hard operational problems are familiar territ
 * 📊 **[progress_bot](https://github.com/jolyonbrown/progress_bot)** - Bluesky bot tracking the US presidential term
 * 🦀 **[omega_rust](https://github.com/jolyonbrown/omega_rust)** - Learning Rust by building a game
 * 🌐 **[jolyonbrown.github.io](https://github.com/jolyonbrown/jolyonbrown.github.io)** - My blog, CV etc
+* 🎮 **[blast-a-pic](https://github.com/jolyonbrown/blast-a-pic)** - A fun casual colour match game I made for my wife
 
 ---
 
